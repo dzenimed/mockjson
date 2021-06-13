@@ -4,27 +4,27 @@
     {
       "id" : 1, 
       "title" : "Find your method", 
-      "imageUrl" : "https://previews.123rf.com/images/stournsaeh/stournsaeh1910/stournsaeh191000112/137770723-flat-style-cartoon-cute-character-diverse-group-of-people-doing-meditation-in-yoga-pose-set-healthca.jpg"
+      "text" : "Most guided meditations follow a similar format: the teacher explains how the mind behaves during meditation, leads you through a particular meditation technique ..."
     },
     {
       "id" : 2, 
       "title" : "Find your spot", 
-      "imageUrl" : "https://graphicriver.img.customer.envatousercontent.com/files/256880309/preview_7619903.jpg?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=0a6e62ecd78c735850e1e77ea9600767"
+      "text" : "If sitting causes any discomfort — if you have back pain or sciatica, or maybe your foot is in a cast, which makes it hard to sit..."
     },
     {
       "id" : 3, 
       "title" : "Enhance your spot", 
-      "imageUrl" : "https://images-na.ssl-images-amazon.com/images/I/41FddLj2UuL._AC_SL1000_.jpg"
+      "text" : "The place you chose to meditate at should..."
     },
     {
       "id" : 4, 
       "title" : "Sit up straight", 
-      "imageUrl" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMMeIoryLRu0QtWTavAq_VkQx8XQft-sIQfg&usqp=CAU"
+      "text" : "Meditation posture is important because it calms the mind. When we sit cross-legged and straighten our back..."
     },
     {
       "id" : 5, 
       "title" : "Meditate first thing", 
-      "imageUrl" : "https://pbs.twimg.com/profile_images/1212663295360016384/vJObXltG_400x400.jpg"
+      "text" : "By starting a meditation practice and tuning into your breath and body when you first wake up, you become more aware of your thoughts..."
     }
   ]
 } 
